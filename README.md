@@ -6,7 +6,7 @@ Completed:
 - Data quality assessment (`02_data_quality_assessment.ipynb`)
 - Exploratory Data Analysis (`03_exploratory_analysis.ipynb`)
 - Generated reports:
-  - `data_quality_report.pdf`
-  - `eda_insights.pdf`
+  - `Data_Quality_Report.pdf`
+  - `Eda_Insights.pdf`
 
 Next step: Begin Week 2 (Feature Engineering and Model Setup)
